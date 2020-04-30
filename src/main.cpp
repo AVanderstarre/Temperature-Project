@@ -1,9 +1,10 @@
-/*
+﻿/*
 - RTC 
 - Display Time and temp
 - Study Prescaler
 - Add user input for setting min and max temp (using remote)
 - Add light that dims and brightens according to brightness in room
+test
 */
 
 /*
