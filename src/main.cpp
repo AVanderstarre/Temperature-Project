@@ -65,7 +65,6 @@ char line1[17];
 //RTC (DS1307)
 RTC_DS1307 rtc;
 
-
 void setup() {
   Serial.begin(9600);
   dht.begin();
